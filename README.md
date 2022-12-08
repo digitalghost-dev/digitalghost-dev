@@ -6,21 +6,11 @@ I’m currently working on building data projects to start my career in data eng
 
 What I'm currently learning... 🌱
 
-  * Programming
-    * Python
-    * SQL
-    * Golang
-  * Data Visualization
-    * Streamlit
-  * Cloud
-    * Google Cloud
-      * BigQuery
-      * Cloud Run
-      * Cloud Storage
-  * DevOps
-    * Docker
-  * Editor
-    * VS Code
-
+| Programming | Visualization | Google Cloud   | Devops |
+| ----------- | ------------- | -------------- | ------ |
+| Python      | Streamlit     | BigQuery       | Docker |
+| SQL         |               | Cloud Run      |        |
+| Golang      |               | Cloud Storage  |        |
+|             |               | Compute Engine |
 
 Check out my website! [digitalghost.dev](https://www.digitalghost.dev)
