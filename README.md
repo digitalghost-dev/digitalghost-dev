@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Christian, based in Nevada, USA 🇺🇸
+### I'm Christian, based in Nevada, USA
 
 I’m currently working on building data projects to start my career in data engineering 🔨
 
