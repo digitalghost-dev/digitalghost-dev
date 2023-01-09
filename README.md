@@ -7,10 +7,10 @@ I’m currently working on building data projects to start my career in data eng
 
 What I'm currently learning 🌱
 
-| Programming | Visualization | Google Cloud   | Devops |
+| Programming | Visualization | Google Cloud   | DevOps |
 | ----------- | ------------- | -------------- | ------ |
 | Python      | Streamlit     | BigQuery       | Docker |
-| SQL         |               | Cloud Run      |        |
+| SQL         |               | Cloud Run      | GitHub Actions|
 | Go          |               | Cloud Storage  |        |
 |             |               | Compute Engine |
 
