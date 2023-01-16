@@ -10,7 +10,7 @@ What I'm currently learning 🌱
 | Programming | Visualization | Google Cloud   | DevOps |
 | ----------- | ------------- | -------------- | ------ |
 | Python      | Streamlit     | BigQuery       | Docker |
-| SQL         |               | Cloud Run      | GitHub Actions|
+| SQL         | Power BI      | Cloud Run      | GitHub Actions|
 | Go          |               | Cloud Storage  |        |
 |             |               | Compute Engine |
 
