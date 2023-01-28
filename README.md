@@ -19,6 +19,6 @@ Current certifications:
 * Google Data Analytics
 * LPI Linux Essentials
 
-### Projects I've built:
+### Data Projects I've built:
 1. [Stock Data Pipeline](https://github.com/digitalghost-dev/stock-data-pipeline)
 2. [Football Data Pipeline](https://github.com/digitalghost-dev/football-data-pipeline)
