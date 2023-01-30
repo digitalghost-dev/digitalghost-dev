@@ -22,3 +22,5 @@ Current certifications:
 ### Data Projects I've built:
 1. [Stock Data Pipeline](https://github.com/digitalghost-dev/stock-data-pipeline)
 2. [Football Data Pipeline](https://github.com/digitalghost-dev/football-data-pipeline)
+---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=digitalghost-dev)](https://github.com/anuraghazra/github-readme-stats)
