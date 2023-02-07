@@ -24,5 +24,3 @@ Current certifications:
 2. [Football Data Pipeline](https://github.com/digitalghost-dev/football-data-pipeline)
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=digitalghost-dev)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digitalghost-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
