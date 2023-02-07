@@ -7,12 +7,12 @@ I’m currently working on building data projects to start my career in data eng
 
 What I'm currently learning 🌱
 
-| Programming | Visualization | Google Cloud   | DevOps |
-| ----------- | ------------- | -------------- | ------ |
-| Python      | Streamlit     | BigQuery       | Docker |
-| SQL         | Power BI      | Cloud Run      | GitHub Actions|
-| Go          |               | Cloud Storage  |        |
-|             |               | Compute Engine |
+| Programming | Visualization | Google Cloud   | DevOps        | Databases  |
+| ----------- | ------------- | -------------- | --------------|------------|
+| Python      | Streamlit     | BigQuery       | Docker        | SQL Server |
+| SQL         | Power BI      | Cloud Run      | GitHub Actions| PostgreSQL |
+| Go          |               | Cloud Storage  |               |
+|             |               | Compute Engine |               |
 
 Current certifications:
 * Google Cloud: Associate Cloud Engineer
