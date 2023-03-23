@@ -11,7 +11,7 @@ What I'm currently learning 🌱
 | ----------- | ------------- | -------------- | --------------|------------|
 | Python      | Streamlit     | BigQuery       | Docker        | SQL Server |
 | SQL         | Power BI      | Cloud Run      | GitHub Actions| PostgreSQL |
-| Go          |               | Cloud Storage  |               |
+| Go          | Looker Studio | Cloud Storage  |               |
 |             |               | Compute Engine |               |
 
 Current certifications:
