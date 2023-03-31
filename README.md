@@ -20,7 +20,7 @@ Current certifications:
 * LPI Linux Essentials
 
 ### Data Projects I've built:
-1. [Stock Data Pipeline](https://github.com/digitalghost-dev/stock-data-pipeline)
+1. [Stock Data Pipeline](https://github.com/digitalghost-dev/stock-data-pipeline) (archived)
 2. [Football Data Pipeline](https://github.com/digitalghost-dev/football-data-pipeline)
 3. Currently Building: [Global Data Pipeline](https://github.com/digitalghost-dev/global-data-pipeline)
 ---
