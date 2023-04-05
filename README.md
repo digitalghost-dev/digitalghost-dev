@@ -22,7 +22,7 @@ Current certifications:
 ### Data Projects I've built:
 
 * Premier League Data: [Infrastructure](https://github.com/digitalghost-dev/premierleague-infrastructure) & [Streamlit](https://github.com/digitalghost-dev/premierleague-streamlit)
-* [Global Data Pipeline](https://github.com/digitalghost-dev/premierleague-streamlit)
+* [Global Data Pipeline](https://github.com/digitalghost-dev/global-data-pipeline)
 * [Stock Data Pipeline](https://github.com/digitalghost-dev/stock-data-pipeline) (archived)
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=digitalghost-dev)](https://github.com/anuraghazra/github-readme-stats)
