@@ -21,7 +21,7 @@ Current certifications:
 
 ### Data Projects I've built:
 
-* Premier League Data: [Infrastructure](https://github.com/digitalghost-dev/premierleague-infrastructure) & [Streamlit](https://github.com/digitalghost-dev/premierleague-streamlit)
+* [Premier League Data](https://github.com/digitalghost-dev/premier-league)
 * [Global Data Pipeline](https://github.com/digitalghost-dev/global-data-pipeline)
 * [Stock Data Pipeline](https://github.com/digitalghost-dev/stock-data-pipeline) (archived)
 ---
