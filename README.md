@@ -11,8 +11,9 @@ What I'm currently learning 🌱
 | ----------- | ------------- | -------------- | --------------|------------|
 | Python      | Streamlit     | BigQuery       | Docker        | SQL Server |
 | SQL         | Power BI      | Cloud Run      | GitHub Actions| PostgreSQL |
-| Go          | Looker Studio | Cloud Storage  |               |
-|             |               | Compute Engine |               |
+| Bash        | Looker Studio | Cloud Storage  |               | Firestore  |
+| Go          |               | Compute Engine |               |            |
+|             |               | Cloud SQL      |
 
 Current certifications:
 * Google Cloud: Associate Cloud Engineer
