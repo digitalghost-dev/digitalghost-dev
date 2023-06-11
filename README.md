@@ -22,7 +22,7 @@ Current certifications:
 
 ### Data Projects I've built:
 
-* [Premier League Data](https://github.com/digitalghost-dev/premier-league)
+* [Premier League Data Pipeline](https://github.com/digitalghost-dev/premier-league)
 * [Global Data Pipeline](https://github.com/digitalghost-dev/global-data-pipeline) (archived)
 * [Stock Data Pipeline](https://github.com/digitalghost-dev/stock-data-pipeline) (archived)
 ---
