@@ -10,8 +10,8 @@ What I'm currently learning 🌱
 | Programming | Visualization | Google Cloud   | DevOps        | Databases  |
 | ----------- | ------------- | -------------- | --------------|------------|
 | Python      | Streamlit     | BigQuery       | Docker        | SQL Server |
-| SQL         | Power BI      | Cloud Run      | GitHub Actions| PostgreSQL |
-| Bash        | Looker Studio | Cloud Storage  |               | Firestore  |
+| SQL         | Power BI      | Cloud Run      | GitHub Actions| Firestore  |
+| Bash        | Looker Studio | Cloud Storage  |               |            |
 | Go          |               | Compute Engine |               |            |
 |             |               | Cloud SQL      |
 
