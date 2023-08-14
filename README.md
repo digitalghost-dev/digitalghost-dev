@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ### I'm Christian. Based in Nevada, USA 📍
-Check out my website // [digitalghost.dev](https://www.digitalghost.dev)
 
 I’m currently working on building data projects to start my career in data engineering 🔨
 
