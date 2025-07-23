@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Christian. Based in Nevada, USA 📍
+### I'm Christian.
 
 Currently a Business Systems Analyst and working on building data projects to start my career in data engineering 🔨
 
